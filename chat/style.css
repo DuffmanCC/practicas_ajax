@@ -1,0 +1,10 @@
+#ventanachat{
+	width: 600px;
+	height: 400px;
+	border: 1px solid black;
+	border-radius: 5px;
+}
+
+input{
+	padding: 5px;
+}

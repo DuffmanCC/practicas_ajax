@@ -15,6 +15,8 @@
 			else if(window.ActiveXObject) {  // Navegadores obsoletos
 			  peticion_http = new ActiveXObject("Microsoft.peticion_http");
 			}
+
+			
 			peticion_http.onreadystatechange = eurobasket;
 
 			function eurobasket(){
