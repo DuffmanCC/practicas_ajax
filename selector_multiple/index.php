@@ -29,6 +29,7 @@
 			// en la variable j meto la selección del primer select
 			peticion_http.open("GET", "jugadores.php?j="+str, true);
 			peticion_http.send();
+
 		}
 	</script>
 </head>

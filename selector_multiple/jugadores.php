@@ -13,5 +13,4 @@ while($fila = $results->fetchArray()){
 
 $conexion->close();
 
-echo $_GET['j'];
- ?>
+?>
